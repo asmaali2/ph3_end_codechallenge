@@ -11,7 +11,7 @@ Follow the steps below to set up and run the project locally.
 
 ### Installation
 1. Clone the repository:
- `git clone https://github.com/Mariegacheri/IP03-Phase-3-SQLAlchemy-Code-Challenge-Restaurants`
+ `git clone https://github.com/Asmaali2/IP03-Phase3_end_codechallenge`
 cd into it.
 
 2. Install dependencies:
